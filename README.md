@@ -1,1 +1,1 @@
-# Lógica Repositorio dos projetos de logica de programacao C#
+Repositório dos projetos de logica de programacao C#
